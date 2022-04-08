@@ -408,7 +408,11 @@ h3.hello span {
     color: var(--skin-color);
 }
 
-h3.my-profession {
+h3.my-profession{
+    font-size: 30px;
+    margin: 15px 0;
+}
+h3.my-profession2{
     font-size: 30px;
     margin: 15px 0;
 }
