@@ -59,7 +59,7 @@ window.addEventListener('load', () => {
 
 /*-------------------typing----------------------- */
 let typ = new Typed(".typing", {
-    strings: ["Embedded Software Engineer"],
+    strings: ["Software Engineer"],
     typeSpeed: 80,
     backSpeed: 60,
     loop: true
