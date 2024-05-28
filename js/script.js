@@ -61,7 +61,7 @@ window.addEventListener('load', () => {
 let typ = new Typed(".typing", {
     strings: ["Software Engineer"],
     typeSpeed: 80,
-    backSpeed: 60,
+    backSpeed: 80,
     loop: true
 })
 
